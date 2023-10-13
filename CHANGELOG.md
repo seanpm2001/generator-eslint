@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.6](https://github.com/eslint/generator-eslint/compare/v4.1.5...v4.1.6) (2023-10-13)
+
+
+### Chores
+
+* Update add-to-triage.yml ([#165](https://github.com/eslint/generator-eslint/issues/165)) ([5b0ea24](https://github.com/eslint/generator-eslint/commit/5b0ea24b6021c048b36f52f3e2a25eeb92c78b89))
+
 ## [4.1.5](https://github.com/eslint/generator-eslint/compare/v4.1.4...v4.1.5) (2023-07-31)
 
 
